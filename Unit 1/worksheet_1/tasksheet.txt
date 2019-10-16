@@ -1,0 +1,16 @@
+These are all the python solutions from the pseudocode solutions on the first worksheet
+of the first module of Computer Science.
+
+1) Use Google to find the formula for converting pounds to kilos and kilos to pounds. 
+Write a pseudocode algorithm that prompts the user to enter a kilo value and a pound 
+value. The program will then convert the kilos to pounds and the pounds to kilos. 
+It will then output both values. 
+
+2) Write a pseudocode algorithm that prompts the user to enter a three-digit number and 
+outputs the hundreds, tens and units.
+
+Example: 523 will output 5 hundreds, 2 tens and 3 units. Use what you learned about division.
+
+3)When validating a new password on a website the programmer might use a string function to 
+check the length. 
+Write a pseudocode statement to do this, using an appropriate function.

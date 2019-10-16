@@ -1,0 +1,11 @@
+Task sheet for homework 3 of unit one of computer science:
+
+1)Write a pseudocode algorithm using a FOR loop to read five lowercase letters and output the 
+largest and smallest. (a is less than b).
+
+2)Write a pseudocode algorithm that asks a user for a password. They are allowed three attempts to 
+type the correct password, which is “Tues1212”.
+
+If they type the correct password, output “Password accepted”, otherwise output “Password rejected”.
+
+3 & 4) see sheet
