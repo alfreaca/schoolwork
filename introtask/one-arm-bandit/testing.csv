@@ -1,0 +1,9 @@
+Test Type,Input,Expected/Intended Result,Actual result,Change (if needed)
+Normal,a,Go through to the enter money function,Expected result,none needed
+Boundary,d,The program should exit,Exits with a goobye message,none needed
+erroneous,e,program should ask for the user to re enterExpected result,,none needed
+MONEY INPUT SYSTEM,,,,
+Test Type ,Input,Expected/intended Result,Actual result,Change (if needed)
+Normal,10,the number of goes should be set to 1,Expected result,none needed
+Boundary,13,it should ask for the user to enter more money to equal a multiple of 10,Expected result,none needed
+erroneous,a,ask the user to enter a number,Expected result,none needed
