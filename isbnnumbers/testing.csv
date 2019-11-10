@@ -1,4 +1,4 @@
 Test Type,Input,Expected Result,Actual Result,Fix (if needed
-Normal,9781910523070',Calculate the checkdigit to be 1,Calculates the check digit to be 1,none needed
+Normal,9781910523070,Calculate the checkdigit to be 1,Calculates the check digit to be 1,none needed
 Boundary Data,NA,NA,NA,NA
 Erroneous Data,a,the program should error,The program errors,none needed
