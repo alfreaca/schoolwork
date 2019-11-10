@@ -7,3 +7,8 @@ Test Type ,Input,Expected/intended Result,Actual result,Change (if needed)
 Normal,10,the number of goes should be set to 1,Expected result,none needed
 Boundary,13,it should ask for the user to enter more money to equal a multiple of 10,Expected result,none needed
 erroneous,a,ask the user to enter a number,Expected result,none needed
+HOLD SYSTEM,,,,
+Test Type,Input,Expected/Intended Result,Actual result,Change (if needed)
+Normal,1,Ask the user which one to hold,Expected result,none needed
+Boundary,2,Ask the user which two to hold,Expected result,none needed
+erroneous,3,"Ask the user to re enter, either 1 or 2",Expected result,none needed
